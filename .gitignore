@@ -1,1 +1,6 @@
 /img
+/node_modules
+/.sass-cache
+package-lock.json
+package.json
+/css/style-boostrap.css.map
