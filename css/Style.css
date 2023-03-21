@@ -3,9 +3,42 @@ h1{
     font-size: 50px;
 }
 
-.navbar-toggler {
-    border: none !important;
+h3{
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+    font-size: 22px;
 }
+
+p{
+    font-size: 12px;
+}
+
+.primer-servicio{
+    margin-top: 10px;
+    padding-bottom: 1px;
+    background-color: #99f;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.segundo-servicio{
+    margin-top: 10px;
+    padding-bottom: 1px;
+    background-color: #66f;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.tercer-servicio{
+    margin-top: 10px;
+    padding-bottom: 1px;
+    background-color: #22f;
+    text-align: center;
+    border-radius: 25px;
+}
+/* .navbar-toggler {
+    border: none !important;
+} */
 
 /*.navbar-toggler:focus{
     box-shadow: none !important;
